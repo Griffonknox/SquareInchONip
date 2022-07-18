@@ -1,0 +1,20 @@
+body {
+ background-color: lightblue;
+}
+
+.cell {
+    background-color: white;
+    border-radius: 15px;
+    margin: 25px;
+    border: 10px solid black;
+    padding: 10px;
+}
+
+#front-logo {
+    width: 65%
+}
+
+.body-text {
+    font-size: 20px;
+    margin: 15px;
+}
